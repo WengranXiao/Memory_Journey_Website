@@ -1,0 +1,11 @@
+
+body {
+  background: rgb(63,94,251);
+  background: radial-gradient(circle, rgba(63,94,251,0.737154236694678) 0%, rgba(252,70,107,0.1545211834733894) 100%);
+}
+
+.close-button {
+  position: absolute;
+  right: 5px;
+  top: 5px;
+}
